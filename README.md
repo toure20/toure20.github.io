@@ -1,1 +1,3 @@
-# toure20.github.io
+# Hi, I'm Toremurat. iOS Developer from Almaty, Kazakhstan.
+
+# Content is coming soon...
