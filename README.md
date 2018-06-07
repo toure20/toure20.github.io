@@ -1,3 +1,2 @@
-# Hi, I'm Toremurat. iOS Developer from Almaty, Kazakhstan.
+# Look's like a personal website
 
-# Content is coming soon...
